@@ -4,7 +4,7 @@ My CODSOFT Python Programming Internship tasks
 
 
 
-Task 1 :- To do List (listoftask.db) is required
+Task 1 :- To do List App
 
 
 

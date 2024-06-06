@@ -1,27 +1,22 @@
-# CODSOFT-TASKS
-My CODSOFT Python Programming Internship tasks
+
+1) To do List App
 
 
 
 
-Task 1 :- To do List App
+2) Calculator
 
 
 
 
-Task 2 :- Calculator
+3) Password Generator 
 
 
 
 
-Task 3 :- Password Generator 
+4) Rock Paper Scissor Game 
 
 
 
 
-Task 4 :- Rock Paper Scissor Game 
-
-
-
-
-Task 5 :- Contact Book
+5) Contact Book
